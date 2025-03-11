@@ -5,7 +5,7 @@
 ---  
 
 ### 🔥 **About Me**  
-Starting as a **Data Analyst**, then transitioning through **Business Analyst** and **Product Analyst** roles, I am now an **Associate Product Manager** specializing in AI-powered products and data-driven decision-making. My expertise spans **machine learning implementation, AI API integrations, and cloud-based AI deployments** to create **impactful, scalable, AI-driven solutions.**  
+Starting as a **Data Analyst**, then transitioning through **Business Analyst** and **Product Analyst** roles, I am now an **Product Manager** specializing in AI-powered products and data-driven decision-making. My expertise spans **machine learning implementation, AI API integrations, and cloud-based AI deployments** to create **impactful, scalable, AI-driven solutions.**  
 
 🎯 **What I Do:**  
 - 🧠 **Machine Learning & AI** – Scikit-learn, Transformers, OpenAI API, NLP  
